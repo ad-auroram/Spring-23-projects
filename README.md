@@ -1,3 +1,4 @@
 # Spring-23-hw
 
-Homework assignments while learning python.
+Homework assignments done while learning python.
+From my first semester ever coding.
